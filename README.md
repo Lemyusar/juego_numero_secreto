@@ -28,6 +28,13 @@ Este proyecto fue una excelente oportunidad para aplicar conceptos fundamentales
 
 ---
 
+## 🕹️ Juega ahora
+
+¿List@ para adivinar el número secreto?  Haz clic en el siguiente enlace
+👉 **[Inicia el juego aquí](https://lemyusar.github.io/juego_numero_secreto/)**
+
+---
+
 ## 🛠️ Tecnologías utilizadas
 
 - **HTML5** – Estructura del proyecto  
